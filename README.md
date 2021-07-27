@@ -1,7 +1,7 @@
 # Analyzing-Resale-Housing-Prices-with-Tableau
 This repository contains a school project I submitted the module - Data Visualization. In this project, I was tasked to analyze the Housing Resale Prices in Singapore between 1990 - 2020 using the Tableau Software.
 
-The dataset "Housing Resale Dataset.csv" included the housing resale prices in Singapore between 2012 - 2019 - this dataset was provided as part of the assignment. However, I found a similar dataset "resale prices from 1990-2020.csv" in [Data.Gov](https://data.gov.sg/dataset/resale-flat-prices) and used that instead. The dataset included Housing Resale Prices from 1990 - 2020 and included the following attributes: 
+The dataset "Housing Resale Dataset.csv" included the housing resale prices in Singapore between 2012 - 2019 - this dataset was provided as part of the assignment. However, I found a similar dataset "resale prices from 1990-2020.csv" (The dataset included is in the "resale prices from 1990-2020.zip" file) in [Data.Gov](https://data.gov.sg/dataset/resale-flat-prices) and used that instead. The dataset included Housing Resale Prices from 1990 - 2020 and included the following attributes: 
  * Location
  * Flat Model
  * Floor Area (sqm)
